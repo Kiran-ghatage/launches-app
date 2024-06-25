@@ -1,0 +1,15 @@
+@import './Navbar.scss';
+@import './LaunchesList.scss';
+@import './SearchBar.scss';
+@import './Filter.scss';
+@import './LaunchItem.scss';
+@import './Pagination.scss';
+
+.app {
+  text-align: center;
+
+  .app-title {
+    font-size: 2rem;
+    margin: 20px 0;
+  }
+}
